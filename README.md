@@ -17,14 +17,29 @@ Contains a exercises covering various concepts including:
 - Use variables
 - Creating interactions for all the numbers
 
+### [Day 03 - Add interactions for operators of calculator](Day03/README.md)
+Contains a continuation of the previous exercise, covering various concepts including:
+- Add interaction for "All Clear" button fully implemented
+- Add interaction for "+/-" button fully implemented
+- Add interaction for "." button fully implemented
+- Add interaction for "+" button partially implemented
+
 ## Repository Structure
 ```
 .
-├── Day01/    
+├── Day01/
 │   ├── README.md
-├── Day02/    
+│   ├── Day1.rp
+│   ├── page_1.png
+│   ├── page_2.png
+├── Day02/
 │   ├── README.md
-└── README.md        
+│   ├── page_1.png
+│   ├── Day02.rp
+├── Day03/
+│   ├── Day03.rp
+│   ├── README.md
+└── README.md
 ```
 
 ## Getting Started
