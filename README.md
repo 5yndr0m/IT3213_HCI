@@ -30,6 +30,15 @@ Contains a continuation of the previous exercise, covering various concepts incl
 - Add interaction for "=" button : fully implemented
 - Tested the functionality of the calculator
 
+### [Day 05 - Dynamic panels and animations](Day05/README.md)
+Contains a exercise covering designing a mobile screen with a dynamic panel and adding some animations to shapes:
+- Create a mobile screen with multiple panels with scrollable content
+- Create a navigation panel
+- Create a dynamic panel using the navigation panel
+- Linking it to the scroll hight of the viewport
+- Create a web header bar
+- Add a swing animation to Bell icon
+
 ## Repository Structure
 ```
 .
@@ -44,6 +53,12 @@ Contains a continuation of the previous exercise, covering various concepts incl
 │   ├── Day02.rp
 ├── Day03/
 │   ├── Day03.rp
+│   ├── README.md
+├── Day04/
+│   ├── Day04.rp
+│   ├── README.md
+├── Day05/
+│   ├── Day05.rp
 │   ├── README.md
 └── README.md
 ```
