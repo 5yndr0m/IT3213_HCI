@@ -24,6 +24,12 @@ Contains a continuation of the previous exercise, covering various concepts incl
 - Add interaction for "." button fully implemented
 - Add interaction for "+" button partially implemented
 
+### [Day 04 - Finish the creation of calculator interface with all interactions](Day04/README.md)
+Contains a continuation of the previous exercise, covering various concepts including:
+- Add interaction for all the operators : fully implemented
+- Add interaction for "=" button : fully implemented
+- Tested the functionality of the calculator
+
 ## Repository Structure
 ```
 .
